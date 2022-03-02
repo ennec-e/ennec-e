@@ -1,10 +1,10 @@
 ## Contact
 
 You may send me messages here by opening a new thread on my [personal repo].  
-For private messages, please encrypt with [PGP key].
+For private messages, please encrypt with [this PGP key].
 
-[personal repo]: https://github.com/ennec-e/ennec-e/issue/new
-[PGP key]: ennec-e.github-private-messages-pubkey.asc
+[personal repo]: https://github.com/ennec-e/ennec-e/issues/new
+[this PGP key]: ennec-e.github-private-messages-pubkey.asc
 
 ### GPG quick-start 🗲
 
